@@ -12,6 +12,8 @@ Shane's Chess Information Database (SCID) - https://sourceforge.net/projects/sci
 
 15 Million Games Chess Database - https://sourceforge.net/projects/codekiddy-chess/
 
+Latest Version of Stockfish - https://stockfishchess.org/download/
+
 # How to Run in Command Line
 ```
 
