@@ -53,3 +53,5 @@ Protocol for communicating with a chess engine process.
     options – Optional. A dictionary of engine options for the analysis. The previous configuration will be restored after the analysis is complete. You can permanently apply a configuration with configure().
     
 Stream information from the engine and stop on an arbitrary condition.
+
+## Contributing
